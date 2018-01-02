@@ -1,0 +1,12 @@
+{
+  "MailSettings": {
+    "ToAddress": "jayantht@proarch.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextCollection": "Server=(localdb)\\MSSQLLocalDB;Database=TheWorldDbb,Trusted_Connection=true;MultipleActiveResultSets=true;"
+  },
+  "Keys": {
+    "BingKey": "f7RuEksFsQuNTtK7ejyP~gDda1UWaSjukM8mDkyMrvQ~AlCWUB7V1xIpvMjy4Zdkg7_fjj_PMtWeVrjYanBlLslzU-AIdLb1jqQcddi19fRS"
+
+  }
+}
